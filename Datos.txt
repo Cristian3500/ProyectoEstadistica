@@ -2,10 +2,15 @@ Buen día jovenes.
 
 Por primera vez.
 
-1. git init
-2. git add .
-3. git commit -m "Primer Commit"
-4. Copiar los comandos de Git Hub (…or push an existing repository from the command line).
+1. git config --global user.name "Nombre de usuario de Github o bitbucket"
+
+2. git config --global user.email "Email usado en GitHub o bitbucket"
+
+3. git init
+4. git add .
+5. git commit -m "Primer Commit"
+6. Copiar los comandos de Git Hub (…or push an existing repository from the command line).
+
 
 
 Subir Actualizaciones.
